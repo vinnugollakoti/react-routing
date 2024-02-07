@@ -1,0 +1,27 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+nav {
+    background-color: black;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.line {
+    text-decoration: none;
+    color: white;
+}
+.flex2 {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+.main {
+    margin-top: 40px;
+}
